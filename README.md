@@ -19,4 +19,4 @@
 -  ``` ls ```
 - ``` jmeter -n -t .\booking.jmx -l .\booking.jtl -e -o Reports ```
 
-#### Caution : Before generating a new report for a different load test, you must delete the existing files and folders such as Report, jmeter.log, and booking.jtl. 
+#### Caution : Before generating a new report for a different load test, you must delete the existing files and folders such as Reports, jmeter.log, and booking.jtl
