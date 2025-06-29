@@ -21,7 +21,7 @@
 
 #### Caution : Before generating a new report for a different load test, you must delete the existing files and folders such as Reports, jmeter.log, and booking.jtl
 
-## HtML Report :
+## HTML Report :
 ![Step-1](https://github.com/user-attachments/assets/4f9bde67-a6a1-4367-bf0d-dd71ea06e91d)
 ![Step-2](https://github.com/user-attachments/assets/1ea6caf7-550b-449e-9bcb-c3f0bbc8f1b7)
 ![Step-3](https://github.com/user-attachments/assets/f4e3aa23-4b38-4b70-a983-6b1a7ed52fc9)
