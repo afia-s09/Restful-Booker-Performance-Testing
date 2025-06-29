@@ -35,7 +35,8 @@
 ## Stress Test Report:
 ![image](https://github.com/user-attachments/assets/e0586e0d-e90c-4f99-a6fe-e21114bf0995)
 
-#### Report Description: The server performs reliably up to 833 users with zero errors. As user load increases to 1666 and beyond, the error rate gradually rises while throughput remains capped around 2.68 req/sec. The system reaches its stress limit between 1700–1800 users, where performance degrades and errors increase significantly.
+### Report Description: 
+The server performs reliably up to 833 users with zero errors. As user load increases to 1666 and beyond, the error rate gradually rises while throughput remains capped around 2.68 req/sec. The system reaches its stress limit between 1700–1800 users, where performance degrades and errors increase significantly.
 
 
 
